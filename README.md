@@ -1,2 +1,2 @@
-# travis-symbol
-travis-sybol
+# travis for symbol
+travis-for-sybol
