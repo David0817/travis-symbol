@@ -24,7 +24,7 @@
     "bufferutil": "^4.0.1",
     "crypto": "^1.0.1",
     "echarts": "^4.2.1",
-    "electron": "^5.0.6",
+    "electron": "^13.6.6",
     "flush-promises": "^1.0.2",
     "moment-timezone": "^0.5.26",
     "node-pre-gyp": "^0.13.0",
